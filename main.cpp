@@ -1,5 +1,5 @@
 #include <iostream> 
-std::cout << std::endl;
+using namespace std;
 int main() 
 {
 for(int i = 1; i < maxNumber; ++i)
